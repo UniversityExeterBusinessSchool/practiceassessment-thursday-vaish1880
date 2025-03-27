@@ -4,7 +4,7 @@
 # SID:740100579
 # Exam Date:27/03/2025
 # Module: programming for business analytics (BEMM458_J_2_202425)
-# Github link for this assignment:  
+# Github link for this assignment:   https://github.com/UniversityExeterBusinessSchool/practiceassessment-thursday-vaish1880 
 #
 # ######################################################################################################################################################
 # Instruction 1. Read the questions and instructions carefully and complete scripts.
